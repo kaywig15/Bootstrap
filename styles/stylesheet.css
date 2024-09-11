@@ -1,4 +1,4 @@
-carouselExample{
-display: block;
-height: 100px;
+.carousel-test{
+width: 700px;
+margin: 0 auto;
 }
